@@ -5,8 +5,8 @@ This repository contains python based interactive Tic-Tac-Toe game.
 ## Running Tic-Tac-Toe:
 
 ```
-git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
-cd Tic-Tac-Toe
+[git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git](https://github.com/Pio69/TicTacToe.git)
+cd TicTacToe
 python main.py
 ```
 
@@ -30,5 +30,6 @@ python main.py
 
 
 ## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
+Game: [Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
+AI: [Leonardo Pio](https://github.com/Pio69)
 
